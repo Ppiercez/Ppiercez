@@ -14,3 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <a href="https://github.com/Ppiercez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ppiercez&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Study code
+![17199033_10212683957630675_1755292003_n](https://github.com/user-attachments/assets/c6b5a0b5-8048-41b6-ba26-d2109a29380c)
+
